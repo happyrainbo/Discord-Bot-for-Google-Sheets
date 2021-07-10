@@ -1,0 +1,10 @@
+module.exports = {
+  args: false,
+  name: "temp",
+  aliases: ['name1', 'name2'],
+  description: "Temp",
+  execute(message, args) {
+    //code to be executed
+  }
+};
+
